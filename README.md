@@ -1,6 +1,8 @@
 # reviewdog
 Practice for reviewdog.
 
+![reviewdog](https://github.com/kotaoue/reviewdog/workflows/reviewdog/badge.svg)
+
 # Links
 * [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)
 * [reviewdog/action-setup](https://github.com/reviewdog/action-setup)
