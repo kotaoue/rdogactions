@@ -1,2 +1,2 @@
-# rdogactions
+# reviewdog
 Practice for reviewdog.
