@@ -4,5 +4,5 @@ runner:
     format: golint
     level: warning
   govet:
-    cmd: go vet $(go list ./... | grep -v /vendor/)
+    cmd: go vet $(go list ./... | grep -v /vendor/) || true
     format: govet
