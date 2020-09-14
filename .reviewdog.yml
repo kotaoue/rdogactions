@@ -6,3 +6,4 @@ runner:
   govet:
     cmd: go vet $(go list ./... | grep -v /vendor/)
     format: govet
+    level: error
